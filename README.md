@@ -61,7 +61,7 @@ Loss based on random sampling:
 
 Normalized comparisons (predictions) via adjacent matrix. diag(matrix) is the correct predictions:
 
-<img src="/img/acc.png" alt="drawing" width="700"/>
+<img src="/img/acc.png" alt="drawing" width="900"/>
 
 
 
