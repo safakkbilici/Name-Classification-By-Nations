@@ -55,10 +55,13 @@ All vectors turned into PyTorch tensor. If the user has GPU support with CUDA, t
 
 # Results
 
+Loss based on random sampling: 
 
 <img src="/img/loss.png" alt="drawing" width="500"/>
 
-<img src="/img/acc.png" alt="drawing" width="500"/>
+Normalized comparisons (predictions) via adjacent matrix. diag(matrix) is the correct predictions:
+
+<img src="/img/acc.png" alt="drawing" width="700"/>
 
 
 
