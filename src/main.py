@@ -99,7 +99,7 @@ if __name__ == "__main__":
     all_letters = string.ascii_letters + " .,;'i̇şğüçİı"
     n_letters = len(all_letters)
     
-    print(findFiles('/media/safak/Data/Desktop HDD/Deep Learning/PyTorch/RNN/data/names/*.txt'))
+    print(findFiles('../data/names/*.txt'))
     print("\n")
     print(all_letters)
     print(n_letters)
@@ -109,7 +109,7 @@ if __name__ == "__main__":
     category_lines = {}
     labels = []
     
-    for filename in findFiles('/media/safak/Data/Desktop HDD/Deep Learning/PyTorch/RNN/data/names/*.txt'):
+    for filename in findFiles('../data/names/*.txt'):
         #print((os.path.basename(filename))) #filenames
         #print(os.path.splitext(os.path.basename(filename))) # split filenames (filename,'.extension')
         label = os.path.splitext(os.path.basename(filename))[0]
