@@ -56,4 +56,9 @@ All vectors turned into PyTorch tensor. If the user has GPU support with CUDA, t
 # Results
 
 
+<img src="/img/loss.png" alt="drawing" width="500"/>
+
+<img src="/img/acc.png" alt="drawing" width="500"/>
+
+
 
