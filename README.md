@@ -49,6 +49,9 @@ and the name Şafak, size of <name_length x 1 x size(language)> will be:
                    0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
                    0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
                    0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]]]) -->K
+                   
+                   
+All vectors turned into PyTorch tensor. If the user has GPU support with CUDA, they are automatically converted into CUDA arrays in the script.
 
 
 
