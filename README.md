@@ -63,5 +63,13 @@ Normalized comparisons (predictions) via adjacent matrix. diag(matrix) is the co
 
 <img src="/img/acc.png" alt="drawing" width="900"/>
 
+# Examples
+
+predict("Ebubekir Sıddık")
+
+         > Ebubekir Sıddık:
+                  (-0.22) Turkish
+                  (-1.73) Arabic
+                  (-4.09) Irish
 
 
