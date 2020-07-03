@@ -63,7 +63,7 @@ Normalized comparisons (predictions) via adjacent matrix. diag(matrix) is the co
 
 <img src="/img/acc.png" alt="drawing" width="900"/>
 
-# Some Examples Wİth Negative Log-Likelihood Values
+# Some Examples With Negative Log-Likelihood Values
 
          $ predict("Ebubekir Sıddık"):
          > Ebubekir Sıddık
