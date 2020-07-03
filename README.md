@@ -71,11 +71,23 @@ Normalized comparisons (predictions) via adjacent matrix. diag(matrix) is the co
                   (-1.73) Arabic
                   (-4.09) Irish
                   
-                  
-         predict("Penderecki"):
+         $ predict("Penderecki"):
          > Penderecki
                   (-0.98) Polish
                   (-1.39) Czech
                   (-1.80) Italian
+                  
+                  
+         $ predict("Şafak"):
+         > Şafak
+                  (-0.82) Czech
+                  (-1.53) Turkish
+                  (-2.08) Polish
+                  
+         $ predict("Vivaldi"):
+         > Vivaldi
+                  (-0.09) Italian
+                  (-3.90) French
+                  (-4.51) Russian
 
 
